@@ -46,10 +46,8 @@ Using API and database integration to mold and store your world, the user can he
 
 ---
 ## 🎧 Mock-interview(2025-09-08) Intro
-<audio controls>
-  <source src="https://raw.githubusercontent.com/YourUser/YourRepo/main/assets/intro.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+[▶️ Listen to my intro](https://raw.githubusercontent.com/YourUser/YourRepo/main/assets/intro.mp3)
+
 ---
 
 ## 📫 Contact Me
