@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Henrik Pedersen
 
-🎓 Python Developer | 🧠 AI Engineer | 🛠️ CI/CD Specialist | 🖥️ .NET Integration
+🎓 Python Developer | 🧠 AI Engineer | 🛠️ System-architecture | 🖥️ .NET Integration
 
-Built my own machine-learning architecture for image classification and anomaly detection.  
+Built my own machine-learning architecture for image classification and anomaly detection architecture.  
 Working with large-scale data, tiered models, confusion-aware training, and streamlined deployment.
 
 ---
@@ -39,18 +39,23 @@ Working with large-scale data, tiered models, confusion-aware training, and stre
 - 🧠 **Anomaly Detection Engine**  
   Built my own state of the art anomaly detectiong logic for a big data customer using kafka and a myriad of optimization techniques. To catch anomalies in real-time.
 
+  
+- 🧠 **Writer-AI** 
+Using API and database integration to mold and store your world, the user can help bring his imagine world to real life using semantic helps, guardrails and even bring it to life with audiobook mode.
+
+
 ---
-
-## 🎧 Audio Intro (optional)
-[Listen to who I am](assets/intro.mp3)
-
+## 🎧 Mock-interview(2025-09-08) Intro
+<audio controls>
+  <source src="https://raw.githubusercontent.com/YourUser/YourRepo/main/assets/intro.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 ---
 
 ## 📫 Contact Me
 
-- 🌐 Website: [henrik.dev](https://yourdomain.com)
-- 💼 LinkedIn: [linkedin.com/in/henrikpedersen](https://linkedin.com/in/yourname)
-- 📬 Email: henrik@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/henrik-pedersen-755885127/
+- 📬 Email: henrik.pedersen.vs@gmail.com
 
 ---
 
