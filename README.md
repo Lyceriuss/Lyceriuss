@@ -58,4 +58,4 @@ https://raw.githubusercontent.com/Lyceriuss/Lyceriuss/main/assets/intro.mp3
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HenrikPedersen&show_icons=true&theme=radical)
+![Henrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyceriuss&show_icons=true&theme=radical)
