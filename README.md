@@ -46,7 +46,8 @@ Using API and database integration to mold and store your world, the user can he
 
 ---
 ## 🎧 Mock-interview(2025-09-08) Intro
-[▶️ Listen to my intro](https://raw.githubusercontent.com/YourUser/YourRepo/main/assets/intro.mp3)
+https://raw.githubusercontent.com/Lyceriuss/Lyceriuss/main/assets/intro.mp3
+
 
 ---
 
