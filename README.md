@@ -58,4 +58,5 @@ https://raw.githubusercontent.com/Lyceriuss/Lyceriuss/main/assets/intro.mp3
 
 ---
 
+## Personal projects
 ![Henrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyceriuss&show_icons=true&theme=radical)
